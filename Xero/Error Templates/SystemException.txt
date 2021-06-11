@@ -1,0 +1,12 @@
+Dear Bot Overlord,
+
+A System Exception has occured.
+
+System Exception is:
+
+{0}
+
+Event Occured At {1}.
+
+Cheers,
+UiPath Robot.

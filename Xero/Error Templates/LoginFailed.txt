@@ -1,0 +1,9 @@
+Good day Bot Overlord,
+
+Failed to Login to ACME Application.
+
+Please check out the attached files for more details: 
+Event Occured At {0}.
+
+Cheers,
+UiPath Robot
